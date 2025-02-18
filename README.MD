@@ -42,3 +42,15 @@ will display the env variables and exited.
 docker run -d -p nginx 80:80 nginx
 "nginx" , "-g", "daemon off;" ---running
 its not for specific time
+
+###
+
+till now we write docker file , images running the containers.
+push to docker hub so that other can pull
+docker push url/username/imagename:version
+docker push docker.io/guvvalakumaraswamy/qi:v1
+
+###
+
+add also copy files local to container
+have two extra opton
