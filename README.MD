@@ -29,3 +29,10 @@ cmd -- at the time of container creation
 
 EXPOSE
 to tell the user what are the containers are using
+
+###
+
+ENV
+catalogue --mongodb
+mongobd url, port no, all these
+similarly env also to the docke images through env instuciotn
