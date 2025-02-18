@@ -62,3 +62,14 @@ it can directly untar the file to the local.
 ENTRYPOINT
 cmd vs entrypoint
 you can override entrypoint.
+write docker file and build image and push image
+docker run -- how to run the image
+2 steps:
+
+###
+
+USR:
+each container belongs to differt concpets having common storage
+if you give root access to the every container ,enter server data is in storage
+it is not best practice that is why we dont allow root access in container.
+using user instruction we can restrict
