@@ -92,3 +92,16 @@ that can supply version to the os.
 arg vs env
 arg var work in build time
 env will work in build and run time.
+
+RUN vs CMD.
+CMD vs Entrypoint
+add vs copy
+
+on build
+ONBUILD
+we are developing docker images some one may use our images.
+as a image developer i need to make some rules
+through ONBUILD
+on build will not exeute at the time of creat images
+at the time of someone use your image executed
+all my projects have to user this ngninx image.
