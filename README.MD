@@ -56,3 +56,9 @@ add also copy files local to container
 have two extra opton
 it can copy content form internet
 it can directly untar the file to the local.
+
+###
+
+ENTRYPOINT
+cmd vs entrypoint
+you can override entrypoint.
