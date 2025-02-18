@@ -88,3 +88,7 @@ have to done through variable
 from ---it should be the first instruction
 there is only one exception arg can be first instruction
 that can supply version to the os.
+
+arg vs env
+arg var work in build time
+env will work in build and run time.
