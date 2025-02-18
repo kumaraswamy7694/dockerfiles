@@ -73,3 +73,18 @@ each container belongs to differt concpets having common storage
 if you give root access to the every container ,enter server data is in storage
 it is not best practice that is why we dont allow root access in container.
 using user instruction we can restrict
+
+###
+
+ARG:
+it will supply variable and build time...
+something
+mail.sh <to-eamo><subject-line>
+
+almalinux
+7 8 9
+wihout hanging the docker file change the configuration.
+have to done through variable
+from ---it should be the first instruction
+there is only one exception arg can be first instruction
+that can supply version to the os.
