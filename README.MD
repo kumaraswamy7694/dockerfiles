@@ -36,3 +36,9 @@ ENV
 catalogue --mongodb
 mongobd url, port no, all these
 similarly env also to the docke images through env instuciotn
+
+docker run <container id > command
+will display the env variables and exited.
+docker run -d -p nginx 80:80 nginx
+"nginx" , "-g", "daemon off;" ---running
+its not for specific time
